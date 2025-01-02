@@ -18,8 +18,6 @@ print(ben.getKD());
 }
 
 
-// spielernamen, kills, death, kd
-
 class Player {
 
 String name;
